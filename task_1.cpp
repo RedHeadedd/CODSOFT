@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 
+
 /* Task: Create a number guessing game.
    The program generates a random number between 1 and 100.
    The user guesses until they get the right number.
